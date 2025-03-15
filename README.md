@@ -1,7 +1,13 @@
 # `ros2_py_template` package
 ROS 2 python package.  [![Static Badge](https://img.shields.io/badge/ROS_2-Humble-34aec5)](https://docs.ros.org/en/humble/)
 ## Packages and build
+# Sun Drawer 4
 
+Ez egy ROS 2 csomag, amely grafikusan ábrázolja a napot. A csomag célja, hogy egy
+szerű eszközöket biztosítson különböző vizuális és koordinátarendszeren alapuló napábrázolási projektekhez.
+
+## Telepítés
+   git clone https://github.com/FrksMrtin2004/far_yr1_fit.git
 It is assumed that the workspace is `~/ros2_ws/`.
 
 ### Clone the packages
