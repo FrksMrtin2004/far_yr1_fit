@@ -1,0 +1,25 @@
+[0.454s] Invoking command in '/home/ajr/ros2_ws/src/sun_drawer_4': PYTHONPATH=/home/ajr/ros2_ws/src/sun_drawer_4/build/sun_drawer_4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/sun_drawer_4 build --build-base /home/ajr/ros2_ws/src/sun_drawer_4/build/sun_drawer_4/build install --record /home/ajr/ros2_ws/src/sun_drawer_4/build/sun_drawer_4/install.log --single-version-externally-managed install_data
+[0.614s] running egg_info
+[0.615s] creating build/sun_drawer_4/sun_drawer_4.egg-info
+[0.615s] writing build/sun_drawer_4/sun_drawer_4.egg-info/PKG-INFO
+[0.615s] writing dependency_links to build/sun_drawer_4/sun_drawer_4.egg-info/dependency_links.txt
+[0.615s] writing entry points to build/sun_drawer_4/sun_drawer_4.egg-info/entry_points.txt
+[0.616s] writing requirements to build/sun_drawer_4/sun_drawer_4.egg-info/requires.txt
+[0.616s] writing top-level names to build/sun_drawer_4/sun_drawer_4.egg-info/top_level.txt
+[0.616s] writing manifest file 'build/sun_drawer_4/sun_drawer_4.egg-info/SOURCES.txt'
+[0.616s] reading manifest file 'build/sun_drawer_4/sun_drawer_4.egg-info/SOURCES.txt'
+[0.617s] writing manifest file 'build/sun_drawer_4/sun_drawer_4.egg-info/SOURCES.txt'
+[0.617s] running build
+[0.617s] running install
+[0.617s] running install_data
+[0.618s] creating /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/share/ament_index
+[0.618s] creating /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/share/ament_index/resource_index
+[0.618s] creating /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/share/ament_index/resource_index/packages
+[0.618s] copying resource/sun_drawer_4 -> /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/share/ament_index/resource_index/packages
+[0.618s] copying package.xml -> /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/share/sun_drawer_4
+[0.618s] running install_egg_info
+[0.621s] Copying build/sun_drawer_4/sun_drawer_4.egg-info to /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/lib/python3.10/site-packages/sun_drawer_4-0.0.0-py3.10.egg-info
+[0.621s] running install_scripts
+[0.637s] Installing draw_sun_3 script to /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/lib/sun_drawer_4
+[0.638s] writing list of installed files to '/home/ajr/ros2_ws/src/sun_drawer_4/build/sun_drawer_4/install.log'
+[0.666s] Invoked command in '/home/ajr/ros2_ws/src/sun_drawer_4' returned '0': PYTHONPATH=/home/ajr/ros2_ws/src/sun_drawer_4/build/sun_drawer_4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/sun_drawer_4 build --build-base /home/ajr/ros2_ws/src/sun_drawer_4/build/sun_drawer_4/build install --record /home/ajr/ros2_ws/src/sun_drawer_4/build/sun_drawer_4/install.log --single-version-externally-managed install_data

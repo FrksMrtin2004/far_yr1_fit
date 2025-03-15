@@ -1,0 +1,23 @@
+running egg_info
+creating build/sun_drawer_4/sun_drawer_4.egg-info
+writing build/sun_drawer_4/sun_drawer_4.egg-info/PKG-INFO
+writing dependency_links to build/sun_drawer_4/sun_drawer_4.egg-info/dependency_links.txt
+writing entry points to build/sun_drawer_4/sun_drawer_4.egg-info/entry_points.txt
+writing requirements to build/sun_drawer_4/sun_drawer_4.egg-info/requires.txt
+writing top-level names to build/sun_drawer_4/sun_drawer_4.egg-info/top_level.txt
+writing manifest file 'build/sun_drawer_4/sun_drawer_4.egg-info/SOURCES.txt'
+reading manifest file 'build/sun_drawer_4/sun_drawer_4.egg-info/SOURCES.txt'
+writing manifest file 'build/sun_drawer_4/sun_drawer_4.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+creating /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/share/ament_index
+creating /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/share/ament_index/resource_index
+creating /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/share/ament_index/resource_index/packages
+copying resource/sun_drawer_4 -> /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/share/ament_index/resource_index/packages
+copying package.xml -> /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/share/sun_drawer_4
+running install_egg_info
+Copying build/sun_drawer_4/sun_drawer_4.egg-info to /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/lib/python3.10/site-packages/sun_drawer_4-0.0.0-py3.10.egg-info
+running install_scripts
+Installing draw_sun_3 script to /home/ajr/ros2_ws/src/sun_drawer_4/install/sun_drawer_4/lib/sun_drawer_4
+writing list of installed files to '/home/ajr/ros2_ws/src/sun_drawer_4/build/sun_drawer_4/install.log'
